@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Twice</string>
+
+    <string name="find_desc">Enter some letters:</string>
+    <string name="find_button">Find Words</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="loading">Loading the dictionary...</string>
+    <string name="ready">Ready to go!</string>
+    <string name="loading_progress">%s%% of the WHOLE ENGLISH LANGUAGE loaded…</string>
+    <string name="dictionary_error">Could not read dictionary!</string>
+    <string name="please_wait">Please wait while we are loading the dictionary...</string>
+</resources>
