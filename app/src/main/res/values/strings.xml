@@ -10,4 +10,5 @@
     <string name="loading_progress">%s%% of the WHOLE ENGLISH LANGUAGE loaded…</string>
     <string name="dictionary_error">Could not read dictionary!</string>
     <string name="please_wait">Please wait while we are loading the dictionary...</string>
+    <string name="result_count">Found %1$d words in %2$d seconds!</string>
 </resources>
