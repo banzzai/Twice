@@ -18,6 +18,8 @@
         android:layout_height="wrap_content"
         android:maxLength="15"
         android:id="@+id/textInput"
+        android:imeOptions="actionGo"
+        android:singleLine="true"
         android:layout_toRightOf="@+id/title" />
 
     <Button
@@ -48,5 +50,14 @@
         android:layout_alignBottom="@+id/button"
         android:layout_toRightOf="@+id/button"
         android:layout_toEndOf="@+id/button" />
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageView"
+        android:src="@drawable/twice"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
 
 </RelativeLayout>
